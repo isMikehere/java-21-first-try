@@ -1,4 +1,4 @@
-package com.java21;
+package com.java21.vthread;
 
 
 import org.junit.jupiter.api.Assertions;
